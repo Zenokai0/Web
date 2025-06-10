@@ -6,7 +6,7 @@ a zando clone
 
 ```
 #clone the repo
-git clone https://github.com/Zenokai0/SA.git
+git clone https://github.com/Zenokai0/Web.git
 
 #change directory to project
 cd SA
